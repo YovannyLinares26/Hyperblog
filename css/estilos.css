@@ -1,8 +1,28 @@
 body
 {
-    background-color: aquamarine;
+    background-color:chartreuse;
     color: chocolate;
     text-align: center;
     font-family: Arial;
+}
+#polo
+{ 
+    width: 50%;
+    padding: lem;
+    text-align: center;
+    border: 1px solid #000;
+    margin:0 auto;
 
+}
+#container
+{
+    width: 50%;
+    padding: lem;
+    text-align: center;
+    border: 1px solid #000;
+    margin: 0 auto;
+}
+#container h1
+{
+    font-size: 20px;
 }
